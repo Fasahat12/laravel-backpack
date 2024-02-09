@@ -24,7 +24,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Getting Started 🏃
 
 - Create a local copy of the repository.
-- Make sure you have xxamp or something similiar.
+- Make sure you have xamp or something similiar.
 - Create a database, name it 'getting_started'.
 - Setup .env file
 - Run ```composer install```.
